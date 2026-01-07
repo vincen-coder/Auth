@@ -1,4 +1,4 @@
-const DB_URL = "http://localhost:3000/users";
+const DB_URL = "http://localhost:3000/user";
 
 // FUNCTION 1: Sign Up (Write to DB)
 export const signUpUser = async (userData) => {
